@@ -12,17 +12,19 @@
     10. Check customer statement
    
  ## Technology and Tools used: 
-    - Java Script
-    - Visual Studio Code
-    - Mochawesome
-    - Axios
-    - JS Faker Library
+- Java Script
+- Visual Studio Code
+- Mochawesome
+- Axios
+- JS Faker Library
 
 ## How to run this project: 
-    - Clone this project
-    - Open with VS code
-    - Hit the following command: npx mocha --timeout=30000 .\test\*.test.js
-    - For generate Mochawesome Report : npm test file .\test\*.test.js
+- Clone this project
+- Open with VS code
+- Hit the following command: 
+    - npx mocha --timeout=30000 .\test\*.test.js
+- For generate Mochawesome Report : 
+    - npm test file .\test\*.test.js
     
 ## Test Cases:
 
