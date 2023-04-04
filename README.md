@@ -20,8 +20,9 @@
 
 ## How to run this project: 
     - Clone this project
-    - hit the following command: npx mocha --timeout=30000 .\test\*.test.js
-    - for generate Mochawesome Report : npm test file .\test\*.test.js
+    - Open with VS code
+    - Hit the following command: npx mocha --timeout=30000 .\test\*.test.js
+    - For generate Mochawesome Report : npm test file .\test\*.test.js
     
 ## Test Cases:
 
