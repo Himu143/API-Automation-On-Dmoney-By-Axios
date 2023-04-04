@@ -27,6 +27,7 @@
     - npm test file .\test\*.test.js
     
 ## Test Cases:
+- https://docs.google.com/spreadsheets/d/1z_YRpaBWZZ0RfGorGzfLSb2ToxBJe3mEZ47jQ7PEjgA/edit?usp=sharing
 
 
 ## Mochawesome Report:
